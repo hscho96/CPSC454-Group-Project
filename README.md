@@ -1,3 +1,6 @@
+## Management System
+This project is for CPSC454 CLOUD Computing
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
